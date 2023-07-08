@@ -1,0 +1,8 @@
+NEXOS_SYSTEM_PATH=/nex/apps/system/
+
+NEXOS_QT_PLUGINS_PATH=/nex/library/qt-6.5.1/plugins/
+NEXOS_QT_LIBRARIES_PATH=/nex/library/qt-6.5.1/lib/
+NEXOS_QT_QML_PATH=/nex/library/qt-6.5.1/qml/
+NEXOS_QT_TRANSLATIONS_PATH=/nex/library/qt-6.5.1/translations/
+NEXOS_QT_LIBEXEC_PATH=/nex/library/qt-6.5.1/libexec/
+NEXOS_QT_RESOURCES_PATH=/nex/library/qt-6.5.1/resources/
