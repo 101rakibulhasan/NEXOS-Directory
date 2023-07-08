@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 5.0.2, 2023-05-10T13:40:02. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAIAAAB0AC8AcgBvAG8AdAAvAEQAbwBjAHUAbQBlAG4AdABzAC8AbgBlAHgALQBzAHkAcwB0AGUAbQAtAHcAYQBsAGwAcABhAHAAZQByAG0AYQBuAGEAZwBlAHIALwBtAGEAaQBuAHcAaQBuAGQAbwB3AC4AYwBwAHAAAAAMAAAAACAAAAACAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAAAAAIwAAAHQALwByAG8AbwB0AC8ARABvAGMAdQBtAGUAbgB0AHMALwBuAGUAeAAtAHMAeQBzAHQAZQBtAC0AdwBhAGwAbABwAGEAcABlAHIAbQBhAG4AYQBnAGUAcgAvAEMATQBhAGsAZQBMAGkAcwB0AHMALgB0AHgAdAAAAAwAAAAAIAAAAAIAAAAAAAAAXAAAAAwAAAApAAAAAAAAAAAAAAAVAAAAAgAAAHQALwByAG8AbwB0AC8ARABvAGMAdQBtAGUAbgB0AHMALwBuAGUAeAAtAHMAeQBzAHQAZQBtAC0AdwBhAGwAbABwAGEAcABlAHIAbQBhAG4AYQBnAGUAcgAvAEMATQBhAGsAZQBMAGkAcwB0AHMALgB0AHgAdAAAABwAQwBNAGEAawBlAEwAaQBzAHQAcwAuAHQAeAB0AAAAGENNYWtlUHJvamVjdC5DTWFrZUVkaXRvcgAAAAB0AC8AcgBvAG8AdAAvAEQAbwBjAHUAbQBlAG4AdABzAC8AbgBlAHgALQBzAHkAcwB0AGUAbQAtAHcAYQBsAGwAcABhAHAAZQByAG0AYQBuAGEAZwBlAHIALwBtAGEAaQBuAHcAaQBuAGQAbwB3AC4AYwBwAHAAAAAcAG0AYQBpAG4AdwBpAG4AZABvAHcALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAAOEAAAANY3VycmVudGVkaXRvcgAAAHQALwByAG8AbwB0AC8ARABvAGMAdQBtAGUAbgB0AHMALwBuAGUAeAAtAHMAeQBzAHQAZQBtAC0AdwBhAGwAbABwAGEAcABlAHIAbQBhAG4AYQBnAGUAcgAvAEMATQBhAGsAZQBMAGkAcwB0AHMALgB0AHgAdAAAADAAQwBNAGEAawBlAFAAcgBvAGoAZQBjAHQALgBDAE0AYQBrAGUARQBkAGkAdABvAHIAAAAgAAAAAgAAAAAAAABcAAAADAAAACkAAAAAAAAAAAAAABUAAAAA</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/root/Documents/nex-system-wallpapermanager/CMakeLists.txt</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/root/Documents/nex-system-wallpapermanager/CMakeLists.txt</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/root/Documents/nex-system-wallpapermanager</value>
+    <value type="QString">nex-system-wallpapermanager</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/root/Documents/nex-system-wallpapermanager</value>
+    <value type="QString">Source Files</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+   <value type="QString">AssetExporter.Export</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+  </valuelist>
+ </data>
+</qtcreator>
